@@ -21,7 +21,7 @@
 
 /* transparency for channels and members list and private channels and left side of settings*/
 .container-PNkimc, .privateChannels-1nO12o, .da-app .sidebarRegion-VFTUkN, .da-app .container-3baos1 {
-	background: transparent;
+	background: rgba(0,0,0,0.4);
 	background-image: var(--transparency-2);
 }
 .theme-dark .container-3baos1, .theme-light .container-3baos1 {
