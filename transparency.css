@@ -29,8 +29,7 @@
 }
 /* chat and top area and other secondary pages */
 .da-app .activityFeed-28jde9, .activityFeed-1C0EmJ, .da-app .gameLibrary-TTDw4Y, .da-app .applicationStore-1pNvnv, .da-app #friends, .da-app .contentRegion-3nDuYy, .da-app .noChannel-Z1DQK7, .da-app .container-3gCOGc {
-	background: transparent;
-	background-image: var(--transparency-3);
+	background: rgba(0,0,0,0.4);
 }
 /* removing color from specific class */
 .panels-j1Uci_ {
