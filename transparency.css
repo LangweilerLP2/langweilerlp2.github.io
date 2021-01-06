@@ -15,7 +15,7 @@
 
 /* Guild and Top bar transparency */
 .theme-dark .wrapper-1Rf91z {
-	background:transparent;
+	background: rgba(0,0,0,0.4);
 	background-image: var(--transparency-1);
 }
 
